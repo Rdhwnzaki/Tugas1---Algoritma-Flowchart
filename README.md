@@ -16,6 +16,5 @@ Tugas 2
 3. Membuat variabel 'kata' yang berisi kalimat.split(' ') yang berguna untuk memecah isi dari parameter 'kalimat' menjadi array
 4. Membuat variabel 'revKata' yang berisi kata.reverse() yang berguna untuk membalikan nilai array yang tadi sudah dipecah
 5. Return revKata.join(' ') berguna untuk menggabungkan array menjadi string
-6. Memanggil function reverseWords('kalimat')
-7. Jalankan program dan outputnya adalah isi dari parameter 'kalimat' yang nilai nya sudah dibalikan
-8. Selesai
+6. Outputnya adalah isi dari parameter 'kalimat' yang nilai nya sudah dibalikan
+7. Selesai
